@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/startbootstrap-clean-blog-jekyll/sitemap.xml
+Sitemap: https://startbootstrap.github.io/startbootstrap-clean-blog-jekyll/sitemap.xml

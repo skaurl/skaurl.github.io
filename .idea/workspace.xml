@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db1c4133-0685-4a97-adce-f8b68425c37e" name="Default Changelist" comment="[add files] first setting">
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/google-analytics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/read_time.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/scripts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-26-dinosaurs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-27-dreams.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-28-exploration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-29-prophecy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-30-heartbeats.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-31-man-must-explore.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2020/01/27/dinosaurs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2020/01/28/dreams.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2020/01/29/exploration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2020/01/30/prophecy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2020/01/31/heartbeats.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2020/01/31/man-must-explore.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/main.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/vendor/bootstrap/scss/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/vendor/bootstrap/scss/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/vendor/bootstrap/scss/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/vendor/startbootstrap-clean-blog/js/jqBootstrapValidation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/vendor/startbootstrap-clean-blog/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/vendor/startbootstrap-clean-blog/scss/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bin/cibuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/bg-about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/bg-contact.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/bg-index.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/bg-post.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/posts/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/posts/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/posts/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/posts/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/posts/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/posts/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/jekyll-theme-clean-blog.gemspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/posts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/posts/page2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_site/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_spinners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_toasts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_deprecate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/utilities/_interactions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/utilities/_overflow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/utilities/_shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/utilities/_stretched-link.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/scss/vendor/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/js/jqBootstrapValidation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/_global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/components/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/components/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/sections/_contact.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/sections/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/sections/_masthead.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/sections/_post.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/variables/_colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/variables/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/cibuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-contact.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-index.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-post.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/posts/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/posts/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/posts/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/posts/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/posts/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/posts/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jekyll-theme-clean-blog.gemspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1unwPl1sb7M9N7WVW45EY2hk98c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db1c4133-0685-4a97-adce-f8b68425c37e" name="Default Changelist" comment="" />
+      <created>1625314641087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625314641087</updated>
+      <workItem from="1625314643452" duration="3000" />
+      <workItem from="1625314699055" duration="272000" />
+      <workItem from="1625315141931" duration="53000" />
+      <workItem from="1625315220209" duration="578000" />
+      <workItem from="1625315827457" duration="129000" />
+      <workItem from="1625315959193" duration="2000" />
+      <workItem from="1625316115900" duration="243000" />
+      <workItem from="1625316379290" duration="121000" />
+      <workItem from="1625316524254" duration="152000" />
+      <workItem from="1625316873259" duration="48000" />
+    </task>
+    <task id="LOCAL-00001" summary="[add files] first setting">
+      <created>1625314730492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625314730492</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[delete files] clear">
+      <created>1625315239143</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625315239143</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[add files] first setting">
+      <created>1625315605365</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625315605365</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[delete files] clear" />
+    <MESSAGE value="[add files] first setting" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add files] first setting" />
+  </component>
+</project>
