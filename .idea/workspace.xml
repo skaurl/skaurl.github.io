@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d028b681-caa4-49e7-8920-f7000718c9da" name="Default Changelist" comment="[modify files] first setting">
-      <change beforePath="$PROJECT_DIR$/_site/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/atom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,8 @@
       <workItem from="1625387601045" duration="954000" />
       <workItem from="1625487267099" duration="636000" />
       <workItem from="1625664579213" duration="286000" />
+      <workItem from="1625738624410" duration="56000" />
+      <workItem from="1625738682921" duration="222000" />
     </task>
     <task id="LOCAL-00001" summary="[modify files] first setting">
       <created>1625387882421</created>
