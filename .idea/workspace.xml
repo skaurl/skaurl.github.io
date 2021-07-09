@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d028b681-caa4-49e7-8920-f7000718c9da" name="Default Changelist" comment="[modify files] first setting">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
       <workItem from="1625738624410" duration="56000" />
       <workItem from="1625738682921" duration="270000" />
       <workItem from="1625807886947" duration="710000" />
-      <workItem from="1625809315075" duration="866000" />
+      <workItem from="1625809315075" duration="1066000" />
     </task>
     <task id="LOCAL-00001" summary="[modify files] first setting">
       <created>1625387882421</created>
@@ -80,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625809399422</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[modify files] first setting">
+      <created>1625810290469</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1625810290469</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
