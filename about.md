@@ -17,7 +17,7 @@ layout: page
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-	<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
+  <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 <p align="center">
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
@@ -52,8 +52,9 @@ layout: page
 
 <p align="center">
   <a href="mailto:dr_lunars@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-2db400?style=for-the-badge&logo=Naver&logoColor=white"/></a>
-	<a href="https://velog.io/@skaurl" target="_blank"><img src="https://img.shields.io/badge/Blog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
-	<a href="https://github.com/skaurl/skaurl/blob/main/Resume/Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-8ca1af?style=for-the-badge&logo=Read%20the%20Docs&logoColor=white"/></a>
+  <a href="https://velog.io/@skaurl" target="_blank"><img src="https://img.shields.io/badge/Blog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
+  <a href="https://github.com/skaurl" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+  <a href="https://github.com/skaurl/skaurl/blob/main/Resume/Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-8ca1af?style=for-the-badge&logo=Read%20the%20Docs&logoColor=white"/></a>
 </p>
 
 ![header](https://capsule-render.vercel.app/api?&type=waving&section=footer)
